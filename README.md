@@ -14,3 +14,10 @@ https://sourceforge.net/projects/gsi-projects/files/v413/crDroid-8.5/crDroid-8.5
 
 # VNDKLite :
 https://sourceforge.net/projects/gsi-projects/files/v413/crDroid-8.5/crDroid-8.5-arm64_bvN-vndklite-Unofficial.img.xz/download
+
+# ArrowOS 12.1 phh 413 By Nazim
+# Normal
+https://sourceforge.net/projects/gsi-projects/files/v413/ArrowOS-12.1/ArrowOS-12.1-arm64_bvN-Unofficial.img.xz/download
+
+# VNDK Lite :
+https://sourceforge.net/projects/gsi-projects/files/v413/ArrowOS-12.1/ArrowOS-12.1-arm64_bvN-vndklite-Unofficial.img.xz/download
